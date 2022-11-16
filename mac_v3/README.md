@@ -13,7 +13,7 @@ Capslock serves via  [**Karabiner-Elements**](https://karabiner-elements.pqrs.or
 
    ```yaml
    # Capslock Mac V3 (this repo)
-   karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac_v3/capslock.json
+   karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/amjltc295/Capslock/dev/mac_v3/capslock.json
    
    # Capslock Official Site (v3)
    karabiner://karabiner/assets/complex_modifications/import?url=https://vonng.com/capslock.json
