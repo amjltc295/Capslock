@@ -4819,7 +4819,7 @@
           ]
         },
         {
-          "description": "e = safari",
+          "description": "e = PageUp",
           "type": "basic",
           "from": {
             "key_code": "e",
@@ -4834,7 +4834,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a Safari"
+                "key_code": "page_up"
             }
           ]
         },
@@ -4881,7 +4881,7 @@
           ]
         },
         {
-          "description": "r = iTerm2",
+          "description": "r = PageDown",
           "type": "basic",
           "from": {
             "key_code": "r",
@@ -4896,7 +4896,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a iTerm"
+                "key_code": "page_down"
             }
           ]
         },
@@ -5067,7 +5067,7 @@
           ]
         },
         {
-          "description": "f = Alfred 4",
+          "description": "f = Enter",
           "type": "basic",
           "from": {
             "key_code": "f",
@@ -5082,7 +5082,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Alfred 4'"
+                "key_code": "return_or_enter"
             }
           ]
         },
@@ -5144,7 +5144,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'IntelliJ IDEA'"
+                "key_code": "equal_sign"
             }
           ]
         }
@@ -6232,7 +6232,7 @@
           ]
         },
         {
-          "description": "semicolon = :",
+          "description": "semicolon = Delete",
           "type": "basic",
           "from": {
             "key_code": "semicolon",
@@ -6247,10 +6247,7 @@
           },
           "to": [
             {
-              "key_code": "semicolon",
-              "modifiers": [
-                "left_shift"
-              ]
+              "key_code": "delete_or_backspace"
             }
           ]
         },
