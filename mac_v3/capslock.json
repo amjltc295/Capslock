@@ -1421,7 +1421,10 @@
           },
           "to": [
             {
-              "key_code": "home"
+              "key_code": "a",
+              "modifiers": [
+                "left_control"
+              ]
             }
           ]
         },
@@ -4837,7 +4840,7 @@
           },
           "to": [
             {
-                "key_code": "page_up"
+              "key_code": "page_up"
             }
           ]
         },
@@ -4899,7 +4902,7 @@
           },
           "to": [
             {
-                "key_code": "page_down"
+              "key_code": "page_down"
             }
           ]
         },
@@ -5028,7 +5031,7 @@
           ]
         },
         {
-          "description": "command + f = Dash",
+          "description": "command + f = command + enter",
           "type": "basic",
           "from": {
             "key_code": "f",
@@ -5044,7 +5047,10 @@
           },
           "to": [
             {
-              "shell_command": "open -a Dash"
+              "key_code": "return_or_enter",
+              "modifiers": [
+                "left_command"
+              ]
             }
           ]
         },
@@ -5085,7 +5091,7 @@
           },
           "to": [
             {
-                "key_code": "return_or_enter"
+              "key_code": "return_or_enter"
             }
           ]
         },
@@ -5147,7 +5153,7 @@
           },
           "to": [
             {
-                "key_code": "equal_sign"
+              "key_code": "equal_sign"
             }
           ]
         }
