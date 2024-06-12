@@ -31,7 +31,6 @@
               "key_code": "right_shift",
               "modifiers": [
                 "right_command",
-                "right_control",
                 "right_option"
               ]
             }
@@ -53,7 +52,6 @@
               ],
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -76,7 +74,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -100,7 +97,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -130,7 +126,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -155,7 +150,6 @@
                 "left_option",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -180,7 +174,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -205,7 +198,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -229,7 +221,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -253,7 +244,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -277,7 +267,6 @@
                 "left_shift",
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -301,7 +290,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -323,7 +311,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -344,7 +331,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -369,7 +355,6 @@
                 "left_option",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -405,7 +390,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -429,7 +413,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -453,7 +436,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -477,7 +459,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -501,7 +482,6 @@
                 "left_shift",
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -525,7 +505,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -547,7 +526,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -568,7 +546,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -593,7 +570,6 @@
                 "left_option",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -629,7 +605,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -654,7 +629,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -678,7 +652,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -702,7 +675,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -726,7 +698,6 @@
                 "left_shift",
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -750,7 +721,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -772,7 +742,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -793,7 +762,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -818,7 +786,6 @@
                 "left_option",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -843,7 +810,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -867,7 +833,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -891,7 +856,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -915,7 +879,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -939,7 +902,6 @@
                 "left_shift",
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -963,7 +925,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -985,7 +946,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1006,7 +966,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1031,7 +990,6 @@
                 "left_option",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1055,7 +1013,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1080,7 +1037,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1105,7 +1061,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1127,7 +1082,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1149,7 +1103,6 @@
                 "left_shift",
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1173,7 +1126,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1195,7 +1147,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1216,7 +1167,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1241,7 +1191,6 @@
                 "left_option",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1274,7 +1223,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1299,7 +1247,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1323,7 +1270,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1345,7 +1291,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1367,7 +1312,6 @@
                 "left_shift",
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1391,7 +1335,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1413,7 +1356,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1437,7 +1379,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1462,7 +1403,6 @@
                 "left_option",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1489,7 +1429,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1513,7 +1452,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1537,7 +1475,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1559,7 +1496,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1581,7 +1517,6 @@
                 "left_shift",
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1605,7 +1540,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1627,7 +1561,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1651,7 +1584,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1676,7 +1608,6 @@
                 "left_option",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1700,7 +1631,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1725,7 +1655,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1746,7 +1675,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1768,7 +1696,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1790,7 +1717,6 @@
                 "left_shift",
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1814,7 +1740,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1836,7 +1761,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1858,7 +1782,6 @@
                 "left_control",
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1878,7 +1801,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1899,7 +1821,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1920,7 +1841,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1941,7 +1861,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1962,7 +1881,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -1983,7 +1901,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2006,7 +1923,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2029,7 +1945,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2052,7 +1967,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2076,7 +1990,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2100,7 +2013,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2124,7 +2036,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2148,7 +2059,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2172,7 +2082,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2196,7 +2105,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2220,7 +2128,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2244,7 +2151,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2267,7 +2173,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2290,7 +2195,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2313,7 +2217,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2336,7 +2239,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2359,7 +2261,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2382,7 +2283,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2405,7 +2305,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2428,7 +2327,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2450,7 +2348,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2472,7 +2369,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2494,7 +2390,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2516,7 +2411,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2544,7 +2438,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2568,7 +2461,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2593,7 +2485,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2618,7 +2509,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2642,7 +2532,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2670,7 +2559,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2694,7 +2582,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2718,7 +2605,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2745,7 +2631,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2768,7 +2653,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2788,7 +2672,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2808,7 +2691,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2836,7 +2718,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ],
@@ -2862,7 +2743,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ],
@@ -2888,7 +2768,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ],
@@ -2914,7 +2793,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ],
@@ -2940,7 +2818,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ],
@@ -2966,7 +2843,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -2988,7 +2864,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3010,7 +2885,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3032,7 +2906,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3055,7 +2928,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3079,7 +2951,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3102,7 +2973,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3126,7 +2996,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3149,7 +3018,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3173,7 +3041,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3196,7 +3063,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3220,7 +3086,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3243,7 +3108,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3268,7 +3132,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3293,7 +3156,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3317,7 +3179,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3342,7 +3203,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3366,7 +3226,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3391,7 +3250,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3415,7 +3273,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3440,7 +3297,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3464,7 +3320,6 @@
                 "left_shift",
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3489,7 +3344,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3514,7 +3368,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3538,7 +3391,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3563,7 +3415,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3587,7 +3438,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3612,7 +3462,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3636,7 +3485,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3661,7 +3509,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3685,7 +3532,6 @@
                 "left_shift",
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3709,7 +3555,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3733,7 +3578,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3756,7 +3600,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3780,7 +3623,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3803,7 +3645,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3827,7 +3668,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3850,7 +3690,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3874,7 +3713,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3897,7 +3735,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3921,7 +3758,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3945,7 +3781,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3968,7 +3803,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -3992,7 +3826,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4015,7 +3848,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4039,7 +3871,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4062,7 +3893,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4086,7 +3916,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4109,7 +3938,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4132,7 +3960,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4155,7 +3982,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4177,7 +4003,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4200,7 +4025,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4222,7 +4046,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4245,7 +4068,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4267,7 +4089,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4290,7 +4111,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4312,7 +4132,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4341,7 +4160,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4365,7 +4183,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4389,7 +4206,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4413,7 +4229,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4437,7 +4252,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4462,7 +4276,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4487,7 +4300,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4510,7 +4322,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4534,7 +4345,6 @@
               "mandatory": [
                 "left_shift",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4555,7 +4365,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4576,7 +4385,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4599,7 +4407,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4623,7 +4430,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4644,7 +4450,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4665,7 +4470,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4689,7 +4493,6 @@
               "mandatory": [
                 "left_control",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4714,7 +4517,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4738,7 +4540,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4762,7 +4563,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4791,7 +4591,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4812,7 +4611,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4832,7 +4630,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4853,7 +4650,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4874,7 +4670,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4894,7 +4689,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4915,7 +4709,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4936,7 +4729,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4956,7 +4748,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4977,7 +4768,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -4998,7 +4788,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5018,7 +4807,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5039,7 +4827,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5063,7 +4850,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5083,7 +4869,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5104,7 +4889,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5125,7 +4909,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5145,7 +4928,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5171,7 +4953,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5195,7 +4976,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5219,7 +4999,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5239,7 +5018,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5263,7 +5041,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5286,7 +5063,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5310,7 +5086,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5333,7 +5108,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5356,7 +5130,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5379,7 +5152,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5408,7 +5180,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5434,7 +5205,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5461,7 +5231,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5487,7 +5256,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5514,7 +5282,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5540,7 +5307,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5567,7 +5333,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5593,7 +5358,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5620,7 +5384,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5646,7 +5409,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5673,7 +5435,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5699,7 +5460,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5726,7 +5486,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5752,7 +5511,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5779,7 +5537,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5805,7 +5562,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5832,7 +5588,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5858,7 +5613,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5885,7 +5639,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5911,7 +5664,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5943,7 +5695,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5966,7 +5717,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -5990,7 +5740,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6013,7 +5762,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6037,7 +5785,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6061,7 +5808,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6084,7 +5830,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6108,7 +5853,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6132,7 +5876,6 @@
               "mandatory": [
                 "left_option",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6155,7 +5898,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6178,7 +5920,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6201,7 +5942,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6225,7 +5965,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6248,7 +5987,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6269,7 +6007,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6289,7 +6026,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6315,7 +6051,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6339,7 +6074,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6363,7 +6097,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6386,7 +6119,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6406,7 +6138,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6426,7 +6157,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6449,7 +6179,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6469,7 +6198,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6489,7 +6217,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6509,7 +6236,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6529,7 +6255,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6549,7 +6274,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6569,7 +6293,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6589,7 +6312,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6609,7 +6331,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6630,7 +6351,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6654,7 +6374,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6680,7 +6399,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6704,7 +6422,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6730,7 +6447,6 @@
               "mandatory": [
                 "left_command",
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6754,7 +6470,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6778,7 +6493,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6798,7 +6512,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6822,7 +6535,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6846,7 +6558,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6870,7 +6581,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6894,7 +6604,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
@@ -6918,7 +6627,6 @@
             "modifiers": {
               "mandatory": [
                 "right_command",
-                "right_control",
                 "right_shift",
                 "right_option"
               ]
